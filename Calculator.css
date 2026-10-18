@@ -1,0 +1,32 @@
+
+body{
+   align-content: center;
+}
+#outer{
+    height: 400px;
+    width: 218px ;
+    border: 1px solid rgb(164, 158, 158);
+    border-radius: 10px;
+
+}
+#input{
+   width: 85%;
+   margin: 10px;
+   margin-left: 12px;
+    height: 50px;
+    border: 1px rgb(165, 155, 155) solid;
+    border-radius: 10px;
+    
+}
+#button-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.buttons{
+    height: 40px;
+    width: 50px;
+    margin: 5px;
+
+}
