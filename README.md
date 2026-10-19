@@ -1,19 +1,23 @@
-# JavaScriptCalculator
-A simple, interactive calculator built with HTML, CSS, and JavaScript. This project demonstrates core web development concepts such as DOM manipulation, event handling, and responsive UI design. It supports basic arithmetic operations and provides a clean, user-friendly interface.
-Features: 
-1.Perform basic operations: Addition, Subtraction, Multiplication, Division
+A simple, interactive calculator built with HTML, CSS, and JavaScript. This project demonstrates core web development concepts such as DOM manipulation, event handling, and responsive UI design.
 
-2.Clear and reset functionality.
+👉 Live Demo: JavaScript Calculator (https://argha0508.github.io/JavaScriptCalculator/)
 
-3.Responsive design for desktop and mobile.
+ Features
+Perform basic operations: Addition, Subtraction, Multiplication, Division
 
-4.Real-time display updates.
+Clear and reset functionality
 
-5.Error handling for invalid inputs (e.g., division by zero).
+Responsive design for desktop and mobile
 
-Technologies Used: 
-1.HTML5 → Structure of the calculator
+Real-time display updates
 
-2.CSS3 → Styling and layout (flexbox/grid for responsiveness)
+Error handling for invalid inputs (e.g., division by zero)
+
+ Technologies Used
+HTML5 → Structure of the calculator
+
+CSS3 → Styling and layout (flexbox/grid for responsiveness)
+
+JavaScript (ES6) → Core logic and event handling
 
 3.JavaScript (ES6) → Core logic and event handling
